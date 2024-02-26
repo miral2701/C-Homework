@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpHomework2
+namespace ConsoleApp1
 {
-    internal class Hw10
+    internal class Program
     {
         static void Main()
         {
